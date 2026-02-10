@@ -1962,8 +1962,6 @@
 +.ausbeatsbydrdre.com
 +.auspost
 +.auth0.com
-+.authorizeddns.net
-+.authorizeddns.org
 +.authorxml.com
 +.authy.com
 +.autocad-schulungen.com
@@ -4316,7 +4314,6 @@
 +.chimeforchange.org
 +.china-autodesk.com
 +.china-facebook.com
-+.china-mmm.jp.net
 +.china-mmm.net
 +.china-week.com
 +.china101.com
@@ -4653,7 +4650,6 @@
 +.cncrivals.com
 +.cnd.org
 +.cnet.com
-+.cnex.org.cn
 +.cnineu.com
 +.cnix-gov-cn.com
 +.cnn.com
@@ -5235,9 +5231,6 @@
 +.ddhw.info
 +.dditsadn.com
 +.dditscdn.com
-+.ddns.info
-+.ddns.mobi
-+.ddns.name
 +.ddns.net
 +.de
 +.de-sci.org
@@ -7747,8 +7740,6 @@
 +.freechinaforum.org
 +.freechinaweibo.com
 +.freecodecamp.org
-+.freeddns.com
-+.freeddns.org
 +.freedirecttvspecial.com
 +.freedl.org
 +.freedomchina.info
@@ -13308,7 +13299,6 @@
 +.mycould.com
 +.mydad.info
 +.mydati.com
-+.myddns.com
 +.mydirectgroove.com
 +.mydirectvchannels.com
 +.mydirtyhobby.com
@@ -21788,7 +21778,6 @@
 +.zhreader.com
 +.zhtv01.com
 +.zhuangbi.me
-+.zhuanxing.cn
 +.zhuatieba.com
 +.zhuichaguoji.org
 +.zhujiget.com
