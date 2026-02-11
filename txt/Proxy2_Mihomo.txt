@@ -5231,7 +5231,6 @@
 +.ddhw.info
 +.dditsadn.com
 +.dditscdn.com
-+.ddns.net
 +.de
 +.de-sci.org
 +.de1lib.org
@@ -6271,7 +6270,6 @@
 +.edicypages.com
 +.edisebay.com
 +.editorx.com
-+.edmontonchina.cn
 +.edmontonservice.com
 +.edninfo.com
 +.edns.biz
@@ -8546,6 +8544,7 @@
 +.google.com
 +.google.com.co
 +.google.com.hk
++.google.hk
 +.google.me
 +.google.net
 +.google.org
@@ -9486,7 +9485,6 @@
 +.hotcrp.com
 +.hotcuckoldwife.com
 +.hotcumporn.com
-+.hotels.cn
 +.hotescortdusseldorf.com
 +.hotfiesta.com
 +.hotfucktube.com
@@ -11331,7 +11329,6 @@
 +.kirbysepicyarn.com
 +.kirbysuperstarultra.com
 +.kismia.com
-+.kissbbao.cn
 +.kisscos.net
 +.kissjav.com
 +.kiwi
@@ -14512,7 +14509,6 @@
 +.openweathermap.org
 +.openwebster.com
 +.openwrt.org
-+.openwrt.org.cn
 +.opera-mini.net
 +.opera.com
 +.opinionjournal.com
@@ -15812,6 +15808,7 @@
 +.projectvasari.com
 +.projectvoyeur.com
 +.promonsterbeatsbydre.com
++.prompthero.com
 +.pron.guru
 +.propertysex.com
 +.proporn.com
@@ -15891,6 +15888,7 @@
 +.pugpig-dev.com
 +.pugpig-stage.com
 +.pugpig.com
++.pullfolio.co
 +.pullfolio.com
 +.pullstring.net
 +.punishbang.com
@@ -15995,7 +15993,6 @@
 +.qingenporn.net
 +.qingse.one
 +.qise100.com
-+.qixianglu.cn
 +.qkjuyet.com
 +.qkshare.com
 +.qmap.pub
@@ -18709,7 +18706,6 @@
 +.tianlawoffice.com
 +.tiantang.today
 +.tiantibooks.org
-+.tianyantong.org.cn
 +.tianzhu.org
 +.tiava.com
 +.tiava1.com
@@ -19660,7 +19656,6 @@
 +.van001.com
 +.van698.com
 +.vana
-+.vanemu.cn
 +.vanguard
 +.vanilla-jp.com
 +.vanish.com.co
@@ -20498,7 +20493,6 @@
 +.wiivc.net
 +.wikaba.com
 +.wikawika.xyz
-+.wiki.keso.cn
 +.wiki.kfd.me
 +.wikia.com
 +.wikia.nocookie.net
