@@ -13829,7 +13829,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngenix.net
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
