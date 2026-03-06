@@ -5768,6 +5768,7 @@
 +.dowjones.com
 +.dowjoneson.com
 +.download.com
++.download.dappcdn.com
 +.download.qcpp1.net
 +.download.qpdp1.net
 +.downloadpass.com
@@ -13136,6 +13137,7 @@
 +.musixmatch.com
 +.muslimvideo.com
 +.muthead.com
++.muvluv-girls-garden.com
 +.muyzorras.com
 +.muzi.com
 +.muzi.net
@@ -14344,6 +14346,7 @@
 +.onlyams.com
 +.onlycartoonsex.com
 +.onlydudes.com
++.onlyfans.com
 +.onlyfanspw.com
 +.onlyfreelatinaporn.com
 +.onlygayvideo.com
@@ -15132,6 +15135,10 @@
 +.pleasurebabe.com
 +.pleasuregirl.net
 +.pleasuremore.com
++.plex.com
++.plex.services
++.plex.tv
++.plexapp.com
 +.plexvpn.pro
 +.plixi.com
 +.plm.org.hk
@@ -16791,6 +16798,7 @@
 +.semanticscholar.org
 +.sendsmtp.com
 +.sendspace.com
++.sendvid.com
 +.seneporno.com
 +.sener
 +.seniortgp.com
@@ -19470,6 +19478,7 @@
 +.usus.cc
 +.usvimosquito.com
 +.usvimosquitoproject.com
++.utdstc.com
 +.utopianpal.com
 +.uu-gg.com
 +.uug22.com
