@@ -34,6 +34,7 @@
 +.cici.com
 +.ciciai.com
 +.ciciaicdn.com
++.cjy.me
 +.clau.de
 +.claude.ai
 +.claude.com
