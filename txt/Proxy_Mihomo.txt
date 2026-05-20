@@ -128,6 +128,7 @@
 +.meta.ai
 +.minimax.io
 +.mistral.ai
++.mozilla.ai
 +.notebooklm-pa.googleapis.com
 +.notebooklm.google
 +.notebooklm.google.com
