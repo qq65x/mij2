@@ -174,6 +174,7 @@
 +.stitch.withgoogle.com
 +.stripe.com
 +.sydney.bing.com
++.tapnow.ai
 +.themeforest.net
 +.trae.ai
 +.turn.livekit.cloud
