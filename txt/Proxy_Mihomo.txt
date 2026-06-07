@@ -138,6 +138,7 @@
 +.notebooklm.google.com
 +.notebooklm.googleapis.com
 +.oaistatic.com
++.oaistatsig.com
 +.oaiusercontent.com
 +.observeit.net
 +.odc.officeapps.live.com
@@ -166,12 +167,14 @@
 +.pplx.ai
 +.proactivebackend-pa.googleapis.com
 +.production-openaicom-storage.azureedge.net
++.qoder.com
 +.robinfrontend-pa.googleapis.com
 +.segment.io
 +.self.events.data.microsoft.com
 +.sentry.io
 +.servd-anthropic-website.b-cdn.net
 +.services.bingapis.com
++.sider.ai
 +.sora.com
 +.spicywriter.com
 +.static.cloudflareinsights.com
