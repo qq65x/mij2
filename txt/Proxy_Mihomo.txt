@@ -58,6 +58,7 @@
 +.comfyci.org
 +.comfyregistry.org
 +.copilot-proxy.githubusercontent.com
++.copilot-stg.com
 +.copilot-workspace.githubnext.com
 +.copilot.cloud.microsoft
 +.copilot.com
@@ -88,6 +89,7 @@
 +.envatousercontent.com
 +.events.statsigapi.net
 +.featuregates.org
++.flow.google
 +.gateway.ai.cloudflare.com
 +.gateway.bingviz.microsoft.net
 +.gateway.bingviz.microsoftapp.net
