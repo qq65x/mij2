@@ -603,6 +603,7 @@
 +.acrobat.com
 +.acs.org
 +.actalis.com
++.actifio.com
 +.activematter.game
 +.activeteachonline.com
 +.activpn.com
@@ -10019,6 +10020,7 @@
 +.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.net
++.jetbrains.org
 +.jetbrains.space
 +.jetbrains.team
 +.jetfuelapp.com
@@ -10446,6 +10448,7 @@
 +.korewaeroi.com
 +.korona.com
 +.kostenlosepornoclips.com
++.kotlinconf.com
 +.kotlinlang.org
 +.kouwobb.com
 +.kp
@@ -12259,6 +12262,7 @@
 +.myicloud.net
 +.myiphide.com
 +.myipod.net
++.myjetbrains.com
 +.myjkwd.com
 +.mykomica.org
 +.mylcloud.net
@@ -12943,6 +12947,7 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
++.nthlink.com
 +.ntl.fyi
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
@@ -13306,6 +13311,7 @@
 +.openweathermap.org
 +.openwebster.com
 +.openwrt.org
++.openxla.org
 +.opera.com
 +.opinionjournal.com
 +.oppai-doga.info
@@ -16751,6 +16757,7 @@
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
++.talkingkotlin.com
 +.talkonly.net
 +.talksport.com
 +.tamilsexvideos.cc
