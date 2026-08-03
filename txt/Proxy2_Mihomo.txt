@@ -14570,7 +14570,6 @@
 +.pure18.com
 +.pureapk.com
 +.pureconcepts.net
-+.puredns.org
 +.pureinsight.org
 +.purelov5.com
 +.purelyceleb.com
@@ -14730,7 +14729,6 @@
 +.radio.garden
 +.radiofarda.com
 +.radiohilight.net
-+.radiojar.com
 +.radioline.co
 +.radiomarsho.com
 +.radiosvoboda.org
