@@ -4893,6 +4893,8 @@
 +.deepfreeze.tech
 +.deepl.com
 +.deepmind.com
++.deepwiki.com
++.deepwiki.org
 +.deezer.com
 +.definebabe.com
 +.definefetish.com
@@ -6877,6 +6879,7 @@
 +.flutterapp.com
 +.flyflv.com
 +.flyingjizz.com
++.flyio.net
 +.flypool.org
 +.flyvpn.com
 +.flyzy2005.com
@@ -7760,6 +7763,7 @@
 +.glasamerike.net
 +.gle
 +.gleline.com
++.glitchwave.com
 +.global-sci.org
 +.globaledu.org
 +.globaljihad.net
@@ -13426,6 +13430,8 @@
 +.ozodlik.org
 +.ozon.com
 +.ozon.express
++.ozon.global
++.ozon.market
 +.ozon.tech
 +.ozon.travel
 +.ozoncamp.pro
@@ -15238,6 +15244,7 @@
 +.rutracker.net
 +.rutracker.org
 +.rutrk.org
++.rutube.sport
 +.ruvideos.net
 +.rw
 +.rwbautomation.tech
@@ -16154,6 +16161,8 @@
 +.solv.finance
 +.solveforx.com
 +.somee.com
++.sonematic.net
++.sonemic.com
 +.songjianjun.com
 +.sonorousporn.com
 +.sony
