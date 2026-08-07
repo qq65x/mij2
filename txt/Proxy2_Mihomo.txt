@@ -160,6 +160,7 @@
 +.2047.name
 +.2047.one
 +.2049bbs.xyz
++.20thcenturystudios.com
 +.20yearsoffea.com
 +.21centuryaccess.com
 +.21heise360dh.cc
@@ -183,10 +184,13 @@
 +.2bit8.com
 +.2buybeatsbydre.com
 +.2ch.hk
++.2ch.life
 +.2ch.net
++.2ch.org
 +.2chav.com
 +.2dgen.com
 +.2drdrebeats.com
++.2dust.link
 +.2gayboys.com
 +.2gis.com
 +.2gis.tech
@@ -527,6 +531,7 @@
 +.abc.xyz
 +.abcheadphones.com
 +.abclider.com
++.abcnews.com
 +.abeatsbydrdre.com
 +.abebooks.com
 +.abellalist.com
@@ -1196,6 +1201,7 @@
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
++.amnezia.org
 +.amodoll.com
 +.amourangels.com
 +.amplifi.com
@@ -2180,6 +2186,7 @@
 +.baltimorebmw.com
 +.baltnews.com
 +.bamgrid.com
++.bamtech.net
 +.bamtoki.com
 +.banamex
 +.banan.tv
@@ -3590,7 +3597,6 @@
 +.byspotify.com
 +.bystys.tech
 +.bytedapm.com
-+.byteoversea.com
 +.bytick.com
 +.bz
 +.bzh
@@ -4214,6 +4220,7 @@
 +.clash.com
 +.clashmini.com
 +.clashofclans.com
++.clashparty.org
 +.clashroyale.com
 +.clashroyaleapp.com
 +.clashyun.com
@@ -4270,6 +4277,7 @@
 +.cloudflare-terms-of-service-abuse.com
 +.cloudflare.com
 +.cloudflare.net
++.cloudflare.pay
 +.cloudflare.tv
 +.cloudflareaccess.com
 +.cloudflareapps.com
@@ -4944,7 +4952,6 @@
 +.deluxe.com.hk
 +.delvenetworks.com
 +.demandware.com
-+.demdex.net
 +.democracy.earth
 +.demoprint.com
 +.demosisto.hk
@@ -4987,6 +4994,7 @@
 +.detaliczny.com
 +.detentiongirls.com
 +.detodosparatodos.org
++.detpress.com
 +.dettol-prize.com
 +.dettol.com
 +.dettol.com.hk
@@ -5178,7 +5186,9 @@
 +.disney.asia
 +.disney.com
 +.disney.com.hk
++.disneyaccount.com
 +.disneyadsales.com
++.disneyanimation.com
 +.disneyarena.com
 +.disneyaulani.com
 +.disneybaby.com
@@ -5194,6 +5204,7 @@
 +.disneyinternationalhd.com
 +.disneyjunior.com
 +.disneyjuniortreataday.com
++.disneylandparis.com
 +.disneylatino.com
 +.disneymagicmomentsme.com
 +.disneyme.com
@@ -5205,11 +5216,13 @@
 +.disneypeoplesurveys.com
 +.disneyplus.bn5x.net
 +.disneyplus.com
++.disneyprivacycenter.com
 +.disneyredirects.com
 +.disneysrivieraresort.com
 +.disneystore.com
 +.disneystreaming.com
 +.disneysubscription.com
++.disneytermsofuse.com
 +.disneytvajobs.com
 +.disneyworld-go.com
 +.disp.cc
@@ -7173,6 +7186,7 @@
 +.freefacebookads.net
 +.freefblikes.com
 +.freefbx.com
++.freeform.com
 +.freegao.com
 +.freegaypornhdtube.com
 +.freegaysexgames.com
@@ -8658,6 +8672,7 @@
 +.honestpornreviews.com
 +.hongjie10.xyz
 +.hongjie11.xyz
++.hongkongdisneyland.com
 +.hongkongdoll.tv
 +.hongkongdollvideo.org
 +.hongkongfp.com
@@ -9381,6 +9396,7 @@
 +.incloak.com
 +.inclusivegrowthscore.com
 +.incommon-rsa.org
++.incy.cc
 +.indazn.com
 +.indaznlab.com
 +.independentoperatorcn.com
@@ -10963,6 +10979,7 @@
 +.lubetube.com
 +.lucahmelayu.club
 +.lucasentertainment.com
++.lucasfilm.com
 +.luckydesigner.space
 +.luckyissue.com
 +.ludepress.com
@@ -12471,6 +12488,7 @@
 +.neicad.com
 +.neiexplicit.com
 +.neifea.com
++.neigbuy.com
 +.neimotion.com
 +.neinastranincad.com
 +.neisoftware.com
@@ -12941,6 +12959,7 @@
 +.nrw
 +.nsfwmemes.com
 +.nsimg.net
++.nsloon.com
 +.ntc.party
 +.ntd.com
 +.ntd.tv
@@ -13226,6 +13245,7 @@
 +.onetrust.com
 +.onevps.com
 +.oneworldmanystories.com
++.onexray.com
 +.onindiansex.com
 +.oninstagram.com
 +.onion.city
@@ -13878,6 +13898,7 @@
 +.piwheels.org
 +.pixanalytics.com
 +.pixapp.net
++.pixar.com
 +.pixate.com
 +.pixeldrain.com
 +.pixelqi.com
@@ -15476,6 +15497,7 @@
 +.seaporn.org
 +.search.aol.com
 +.search.com
++.searchlightpictures.com
 +.searx.me
 +.seat
 +.seattlefdc.com
@@ -15757,6 +15779,7 @@
 +.shadbase.com
 +.shadeyouvpn.com
 +.shadowcomplex.com
++.shadowlaunch.com
 +.shadowslaves.com
 +.shadowsocks.com
 +.shadowsocks.com.hk
@@ -16423,6 +16446,7 @@
 +.starwarsjedifallenorder.com
 +.starwarskids.com
 +.starwarstheoldrepublic.com
++.stash.wiki
 +.statebank
 +.statefarm
 +.stateofthemap.com
@@ -17092,6 +17116,7 @@
 +.theuab.net
 +.theverge.com
 +.thevirtualsexreview.com
++.thewaltdisneycompany.com
 +.theweek.com
 +.thewgo.org
 +.thewirechina.com
@@ -18477,6 +18502,7 @@
 +.walmart.com
 +.walmart.pharmacy
 +.walmartimages.com
++.waltdisneystudios.com
 +.walter
 +.waltermartin.com
 +.waltermartin.org
@@ -18639,6 +18665,7 @@
 +.wfm.com
 +.wforum.com
 +.wgcdn.co
++.wgtunnel.com
 +.whasil.xyz
 +.what-fan.net
 +.whatblocked.com
@@ -18802,6 +18829,7 @@
 +.wirelessreach.com
 +.wiremoneytoirelandwithxoomeasierandcheaper.com
 +.wireshark.org
++.wiresock.net
 +.wise-research.com
 +.wise.com
 +.wisecoin.com
