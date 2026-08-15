@@ -142,6 +142,7 @@
 +.minimax.io
 +.mistral.ai
 +.mozilla.ai
++.notebook.google
 +.notebook.google.com
 +.notebooklm-pa.googleapis.com
 +.notebooklm.google
