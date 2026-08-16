@@ -15295,6 +15295,7 @@
 +.rutracker.me
 +.rutracker.net
 +.rutracker.org
++.rutracker.wiki
 +.rutrk.org
 +.rutube.sport
 +.ruvideos.net

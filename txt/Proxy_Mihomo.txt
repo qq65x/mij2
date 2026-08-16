@@ -20,6 +20,7 @@
 +.api.statsig.com
 +.api.together.xyz
 +.appsdowonders.com
++.arc.msn.com
 +.arena.ai
 +.assets.msn.com
 +.auth0.com
@@ -46,6 +47,7 @@
 +.clawhub.ai
 +.client-api.arkoselabs.com
 +.clipdrop.co
++.cloud.microsoft
 +.cloudaicompanion.googleapis.com
 +.cloudcode-pa.googleapis.com
 +.codeium.com
@@ -60,7 +62,6 @@
 +.copilot-proxy.githubusercontent.com
 +.copilot-stg.com
 +.copilot-workspace.githubnext.com
-+.copilot.cloud.microsoft
 +.copilot.com
 +.copilot.microsoft.com
 +.copilotprodattachments.blob.core.windows.net
@@ -130,9 +131,9 @@
 +.liveperson.net
 +.lmstudio.ai
 +.location.microsoft.com
++.login.live.com
 +.lovart.ai
 +.lpsnmedia.net
-+.m365.cloud.microsoft
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
@@ -186,6 +187,7 @@
 +.sentry.io
 +.servd-anthropic-website.b-cdn.net
 +.services.bingapis.com
++.sharepointonline.com
 +.sider.ai
 +.sora.com
 +.spicywriter.com
