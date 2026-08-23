@@ -15,17 +15,14 @@
 +.antigravity.google
 +.antigravity.googleapis.com
 +.anythingllm.com
-+.api.microsoftapp.net
-+.api.msn.com
-+.api.statsig.com
 +.api.together.xyz
 +.appsdowonders.com
-+.arc.msn.com
 +.arena.ai
-+.assets.msn.com
 +.auth0.com
 +.bard.google.com
 +.bing-shopping.microsoft-falcon.io
++.bing.com
++.bingapis.com
 +.browser-intake-datadoghq.com
 +.cerebras.ai
 +.challenges.cloudflare.com
@@ -59,6 +56,7 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.config.edge.skype.com
 +.copilot-proxy.githubusercontent.com
 +.copilot-stg.com
 +.copilot-workspace.githubnext.com
@@ -85,9 +83,9 @@
 +.drcantik.eu.org
 +.dreamgen.com
 +.duck.ai
-+.edgeservices.bing.com
 +.elevenlabs.com
 +.elevenlabs.io
++.entra.microsoft.com
 +.envato-static.com
 +.envato.com
 +.envatousercontent.com
@@ -97,6 +95,7 @@
 +.gateway.ai.cloudflare.com
 +.gateway.bingviz.microsoft.net
 +.gateway.bingviz.microsoftapp.net
++.gateway.prod.island.powerapps.com
 +.geller-pa.googleapis.com
 +.gemini.google
 +.gemini.google.com
@@ -104,6 +103,7 @@
 +.generativeai.google
 +.generativelanguage.googleapis.com
 +.githubcopilot.com
++.graph.microsoft.com
 +.grazie.ai
 +.grazie.aws.intellij.net
 +.grok.com
@@ -116,7 +116,6 @@
 +.host.livekit.cloud
 +.huggingface.co
 +.identrust.com
-+.in.appcenter.ms
 +.intercom.io
 +.intercomcdn.com
 +.jasper.ai
@@ -132,10 +131,13 @@
 +.launchdarkly.com
 +.liveperson.net
 +.lmstudio.ai
-+.location.microsoft.com
 +.login.live.com
++.login.microsoft.com
++.login.microsoftonline.com
++.login.windows.net
 +.lovart.ai
 +.lpsnmedia.net
++.m365.cloud.microsoft.com
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
@@ -146,6 +148,8 @@
 +.mistral.ai
 +.moonshot.ai
 +.mozilla.ai
++.msftauth.net
++.nexus.officeapps.live.com
 +.notebook.google
 +.notebook.google.com
 +.notebooklm-pa.googleapis.com
@@ -159,6 +163,9 @@
 +.oaiusercontent.com
 +.observeit.net
 +.odc.officeapps.live.com
++.office.com
++.office.net
++.office365.com
 +.ollama.com
 +.opal.google
 +.opal.google.com
@@ -188,10 +195,8 @@
 +.qoder.com
 +.robinfrontend-pa.googleapis.com
 +.segment.io
-+.self.events.data.microsoft.com
 +.sentry.io
 +.servd-anthropic-website.b-cdn.net
-+.services.bingapis.com
 +.sharepointonline.com
 +.sider.ai
 +.sora.com
@@ -199,7 +204,7 @@
 +.static.cloudflareinsights.com
 +.stitch.withgoogle.com
 +.stripe.com
-+.sydney.bing.com
++.sts.windows.net
 +.talkai.info
 +.tapnow.ai
 +.themeforest.net
