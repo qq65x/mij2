@@ -640,6 +640,7 @@
 +.adguard.info
 +.adguard.org
 +.adguardaccount.com
++.adguardaccount.net
 +.adguardcdn.com
 +.adguardvpn.com
 +.adhelpnews.com
@@ -1346,6 +1347,7 @@
 +.aofriend.com
 +.aokwholesale.net
 +.aol
++.aolcdn.com
 +.aomedia.org
 +.aomiwang.com
 +.aorus.com
@@ -13448,6 +13450,7 @@
 +.ourshdtv.com
 +.ourshemales.com
 +.ourtv.hk
++.ouryahoo.com
 +.out-app-purchase.com
 +.outdoorpublicsex.com
 +.outingsapp.com
@@ -19706,6 +19709,7 @@
 +.yahoodns.net
 +.yahoofinance.com
 +.yahoohealth.com
++.yahooinc.com
 +.yahoomusic.com
 +.yahoosandbox.com
 +.yahoosportsbook.com
