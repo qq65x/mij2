@@ -12702,6 +12702,7 @@
 +.nftstorage.link
 +.ng
 +.ngeo.com
++.ngfiles.com
 +.nginx.com
 +.nginx.org
 +.ngrok-agent.com
