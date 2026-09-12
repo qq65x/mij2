@@ -14740,6 +14740,7 @@
 +.qqbs.work
 +.qstatus.com
 +.qt-project.org
++.quakemachinex.com
 +.qualcomm-email.com
 +.qualcomm-inc.com
 +.qualcomm.com
