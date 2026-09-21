@@ -92,6 +92,7 @@
 +.events.statsigapi.net
 +.featuregates.org
 +.flow.google
++.flow.google.com
 +.gateway.ai.cloudflare.com
 +.gateway.bingviz.microsoft.net
 +.gateway.bingviz.microsoftapp.net
