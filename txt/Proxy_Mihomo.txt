@@ -73,6 +73,7 @@
 +.cursor.com
 +.cursor.sh
 +.cursorapi.com
++.cursorvm.com
 +.daily-cloudcode-pa.googleapis.com
 +.deepmind.com
 +.deepmind.google
@@ -181,6 +182,7 @@
 +.openai-api.arkoselabs.com
 +.openai.com
 +.openai.com.cdn.cloudflare.net
++.openai.org
 +.openaiapi-site.azureedge.net
 +.openaiassets.blob.core.windows.net
 +.openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -222,6 +224,7 @@
 +.trae.ai
 +.tripo3d.ai
 +.turn.livekit.cloud
++.typesafe.ai
 +.webchannel-alkalimakersuite-pa.clients6.google.com
 +.windsurf.build
 +.windsurf.com
