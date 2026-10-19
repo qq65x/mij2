@@ -1705,7 +1705,6 @@
 +.asminternational.org
 +.asmrbuluo.com
 +.asn-online.org
-+.asobostudio.com
 +.asp-cc.com
 +.asp.net
 +.aspbjournals.org
@@ -2614,7 +2613,12 @@
 +.beforeigners.com
 +.befuck.com
 +.befuck.net
++.beget.cloud
 +.beget.com
++.beget.hosting
++.beget.pro
++.beget.tech
++.begetcdn.cloud
 +.begin-trade.com
 +.behance.net
 +.behindthescreenz.com
@@ -6901,7 +6905,6 @@
 +.flickr
 +.flickr.com
 +.flickr.net
-+.flightsimulator.com
 +.flipboard.com
 +.flipfap.com
 +.flipkart.com
@@ -14694,6 +14697,7 @@
 +.pussyspace.net
 +.putinho.net
 +.putty.org
++.pv-cdn.net
 +.pvp.net
 +.pvp.tv
 +.pvubank.com
