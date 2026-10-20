@@ -11150,6 +11150,7 @@
 +.magestic.com
 +.magicalmirai.com
 +.magicmovies.com
++.magnific.com
 +.mahajantech.com
 +.mahjongsoul.com
 +.maif
@@ -14467,6 +14468,7 @@
 +.postimages.org
 +.postimg.cc
 +.postini.com
++.postman.com
 +.potatso.com
 +.potvpn.com
 +.poudobnee.com

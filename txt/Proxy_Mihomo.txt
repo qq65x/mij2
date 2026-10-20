@@ -146,6 +146,7 @@
 +.lovart.ai
 +.lpsnmedia.net
 +.m365.cloud.microsoft.com
++.magnific.com
 +.makersuite.google.com
 +.manus.im
 +.manuscdn.com
