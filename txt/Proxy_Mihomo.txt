@@ -20,6 +20,9 @@
 +.anythingllm.com
 +.api.together.xyz
 +.appsdowonders.com
++.appsgenaiserver-pa.clients.google.com
++.appsgenaiserver-pa.clients6.google.com
++.appsgenaiserver-pa.googleapis.com
 +.arena.ai
 +.auth0.com
 +.bard.google.com
