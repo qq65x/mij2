@@ -4285,6 +4285,7 @@
 +.click-sec.com
 +.click-url.com
 +.climate-server.com
++.cline.bot
 +.clinical-videos.com
 +.clinicalkey.com
 +.clinique
@@ -4526,6 +4527,7 @@
 +.contechacademy.com
 +.contentful.com
 +.contest.com
++.context7.com
 +.convrgencegame.com
 +.cookiebot.com
 +.cookiechoices.org
@@ -11528,6 +11530,7 @@
 +.messytube.com
 +.met-nude.com
 +.meta.com
++.metaaiusercontent.com
 +.metaaivm.com
 +.metabrainz.org
 +.metacloud.com
@@ -13042,6 +13045,7 @@
 +.notion.site
 +.notionusercontent.com
 +.nottinghampost.com
++.nousresearch.com
 +.novelai.net
 +.noveltrove.com
 +.novids.com
@@ -17273,6 +17277,7 @@
 +.thinkgeek.com
 +.thinkingtaiwan.com
 +.thinkofliving.com
++.thinkorswim.com
 +.thinkquarterly.com
 +.thinkwithgoogle.com
 +.thirdmill.org
