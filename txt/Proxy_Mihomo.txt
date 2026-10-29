@@ -231,6 +231,7 @@
 +.servd-anthropic-website.b-cdn.net
 +.sharepointonline.com
 +.sider.ai
++.smartsheet.com
 +.sora.com
 +.spicywriter.com
 +.static.cloudflareinsights.com
