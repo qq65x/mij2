@@ -17548,6 +17548,7 @@
 +.toroporno.com
 +.torproject.org
 +.torrentkitty.tv
++.torrentleech.org
 +.torrentprivacy.com
 +.torrenty.org
 +.torrindex.net
@@ -20011,6 +20012,7 @@
 +.youtubekids.com
 +.youtubemobilesupport.com
 +.youversion.com
++.youversionapi.com
 +.youwin.com
 +.youwuss.com
 +.youxu.info
