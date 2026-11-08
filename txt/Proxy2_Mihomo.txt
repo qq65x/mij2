@@ -8146,6 +8146,7 @@
 +.greginhollywood.com
 +.grindr.com
 +.grok.com
++.grokbot.com
 +.grokipedia.com
 +.grooby.com
 +.groq.com
@@ -9062,6 +9063,7 @@
 +.htlvbooks.com
 +.html5rocks.com
 +.htnewbooks.com
++.http-intake.logs.us5.datadoghq.com
 +.httpfacebook.com
 +.httpsfacebook.com
 +.httpwwwfacebook.com
