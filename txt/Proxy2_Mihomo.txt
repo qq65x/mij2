@@ -14854,6 +14854,7 @@
 +.quantil.com
 +.quatrowireless.com
 +.quebec
++.questionablequesting.com
 +.questvisual.com
 +.quicinc.com
 +.quickbooks.com
@@ -16419,6 +16420,7 @@
 +.soyinyj.top
 +.soyjak.party
 +.sp.cool
++.spacebattles.com
 +.spaceexplored.com
 +.spacemail.com
 +.spaces.hightail.com
@@ -18137,6 +18139,7 @@
 +.v.recipes
 +.v2.help
 +.v2.hysteria.network
++.v2ex.co
 +.v2ex.com
 +.v2fly.org
 +.v2ph.com
