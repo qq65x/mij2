@@ -1051,6 +1051,8 @@
 +.online.sh.cn
 +.api.shanghailingye.cn
 +.shanhutech.cn
++.shihuo.log.shihuocdn.cn
++.shihuo-new.log.shihuocdn.cn
 +.statichf.shihuocdn.cn
 +.shilian168.cn
 +.ad.shobo.cn
@@ -5509,6 +5511,7 @@
 +.obsworks.com
 +.obv3epx22d.com
 +.analytics.oceanengine.com
++.lf-event-manager.oceanengine.com
 +.ocvdi0rum.com
 +.od6992uotl.com
 +.odj3j8dsff.com
@@ -6657,7 +6660,6 @@
 +.tiexing.com
 +.ads.tiktok.com
 +.ads-api.tiktok.com
-+.ads-jp.tiktok.com
 +.ads-sg.tiktok.com
 +.analytics.tiktok.com
 +.business-api.tiktok.com
@@ -7644,7 +7646,6 @@
 +.y9oog9hyuo.com
 +.adserver.yaboo.com
 +.yah3ph65tc.com
-+.adspecs.yahoo.com
 +.advertising.yahoo.com
 +.ads.auctions.yahoo.com
 +.log.fc.yahoo.com
