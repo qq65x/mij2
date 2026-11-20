@@ -8142,6 +8142,7 @@
 +.greatgame.asia
 +.greatretroporn.com
 +.green-box-tv.com
++.greenbean.media
 +.greenbuildingstudio.com
 +.greenlakeaas.com
 +.greenlakehybridcloud.com
@@ -8677,9 +8678,11 @@
 +.hkchronicles.com
 +.hkcircleapp.com
 +.hkcitizenmedia.com
++.hkcitycreation.com
 +.hkcnews.com
 +.hkcoc.com
 +.hkcoc.weather.com.hk
++.hkcourtnews.com
 +.hkcsl.com
 +.hkedcity.net
 +.hkej.com
@@ -8688,6 +8691,7 @@
 +.hkf202311.site
 +.hkf202312.shop
 +.hkfaa.com
++.hkfeature.com
 +.hkgalden.com
 +.hkgolden.com
 +.hkgolden.media
@@ -10825,6 +10829,7 @@
 +.lifeatspotify.com
 +.lifemiles.com
 +.lifeselector.com
++.lifesitenews.com
 +.lifewire.com
 +.lightbridge.com
 +.lighter.exchange
@@ -11349,6 +11354,7 @@
 +.massagerepublic.com
 +.masseffect.com
 +.masseffectarchives.com
++.master-insight.com
 +.mastercad.com
 +.mastercard-email.com
 +.mastercard.com
@@ -14745,6 +14751,7 @@
 +.pugpig.com
 +.pullfolio.co
 +.pullstring.net
++.pulsehknews.com
 +.punishbang.com
 +.punishworld.com
 +.pure18.com
@@ -15954,6 +15961,7 @@
 +.shahvani.site
 +.shakethesnake.com
 +.shameless.com
++.shanghainationalparty.com
 +.shangrila
 +.shapelcounset.xyz
 +.sharecool.org
@@ -16402,6 +16410,7 @@
 +.soubory.com
 +.souka.xyz
 +.soulcaliburhentai.net
++.soulogic.com
 +.soundcloud.cloud
 +.soundcloud.com
 +.soundofhope.org
@@ -17186,6 +17195,7 @@
 +.thecleversense.com
 +.theclub.com.hk
 +.theclubprive.com
++.thecollectivehk.com
 +.thecompaqstore.com
 +.theconversation.com
 +.thecuckold.com
@@ -17244,6 +17254,7 @@
 +.thenewslens.com
 +.thenextweb.com
 +.thenipslip.com
++.theonlinecitizen.com
 +.theopportunityproject.org
 +.thepaypalshop.com
 +.thepervs.com
@@ -17276,6 +17287,7 @@
 +.thesimssocial.com
 +.thestandard.com.hk
 +.thestandnews.com
++.thestar.com
 +.thestationbymaker.com
 +.thetatoken.org
 +.thethothub.com
@@ -17293,6 +17305,7 @@
 +.thewgo.org
 +.thewirechina.com
 +.thewitcher.com
++.thewitnesshk.com
 +.thewonderful101.com
 +.theync.com
 +.theyxxx.com
@@ -19067,6 +19080,7 @@
 +.wolframalpha.com
 +.wolterskluwer
 +.wolterskluwer.com
++.womany.net
 +.womensnikeshox.com
 +.womenwill.com
 +.wonporn.com
