@@ -3634,6 +3634,7 @@
 +.cabletvdirectv.com
 +.cachefly.com
 +.cachefly.net
++.cachix.org
 +.cacnw.com
 +.cactusvpn.com
 +.cad-mep.com
@@ -4572,6 +4573,7 @@
 +.coursera.community
 +.coursera.help
 +.coursera.org
++.courses.myecnu.org
 +.coverartarchive.org
 +.covid19-rx.org
 +.covid19rx.org
@@ -6643,9 +6645,11 @@
 +.fastindianporn.com
 +.fastlane.tools
 +.fastly-edge.com
++.fastly-insights.com
 +.fastly-terrarium.com
 +.fastly.com
 +.fastly.net
++.fastlydns.net
 +.fastlylabs.com
 +.fastlylb.net
 +.fastssh.com
@@ -18345,6 +18349,7 @@
 +.vivaldi.com
 +.vivaxnxx.com
 +.vivo
++.vivox.com
 +.vivthomas.com
 +.vixen.com
 +.vixengroup.com
